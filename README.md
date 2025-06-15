@@ -1,6 +1,6 @@
 # Northwind Sales Analysis 🛒📊
 
-SQL-Based sales analysis project using the Northwind database that analyzes customer behavior, product sales, order patterns, and employee performance using SQL and the Northwind database. It was developed as part of the Tech Her Up Program, supervised by instructor Asmaa El-Taher.
+SQL-Based sales analysis project using the Northwind database that analyzes customer behavior, product sales, order patterns, and employee performance. It was developed as part of the Tech Her Up Program, supervised by instructor Asmaa El-Taher.
 
 ## 📁 Files
 - `SQL_Project_Report.pdf`: Full analysis and business insights
